@@ -32,7 +32,7 @@ Esta herramienta es solo para propósitos educacionales. No debe ser utilizada p
 ## Uso
 Ejecuta el archivo principal:
 ```bash
-python src/email_checker.py
+python src/account_validator.py
 ```
 Sigue las opciones del menú para:
 - Importar cuentas.
